@@ -26,4 +26,8 @@ Já, para acessar a estrutura de server components, acesse [http://localhost:300
 
 Esse projeto faz parte de uma apresentação sobre Server Components utilizando React, e algumas comparações foram feitas para demonstrar o potencial e algumas das vantagens de se estruturar esse novo 'modelo mental' de trabalhar.
 
+É um projeto super simples pra demonstrar o conceito. Layout e estrutura de códigos não está adequados, uma vez que o objetivo era apenas demonstrar como RSC funciona utilizando nextjs.
 
+As informações de produtos são obtidas da [https://fakestoreapi.com](https://fakestoreapi.com), como forma de facilitar a validação e apresentação das propriedades dos server components.
+
+Para mais informações, acessar a documentação do Nextjs, que contém muita informação sobre as estruturas, padrões, benefícios e vantagens dessa nova estrutura.
